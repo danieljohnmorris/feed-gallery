@@ -1,0 +1,7 @@
+HOW TO INSTALL
+============
+
+1) Copy thumbalizr/config.inc.php.sample to thumbalizr/config.inc.php
+
+2) Edit config.inc.php with your own Thumbalizr API key, and change settings if you want to.
+http://thumbalizr.com
